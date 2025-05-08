@@ -1,4 +1,4 @@
-# 💫Web developer & Graphic designer:
+# 💫Web developer :
 <br>I'm a passionate web developer with 3 years of experience, I possess expertise in creating stunning and functional websites in modern programming languages like JavaScript, HTML, CSS, and frameworks. Simultaneously, I am a graphic designer with over 4 years of experience. I use Adobe Illustrator and Adobe Photoshop to design the graphics and Adobe xd, Figma for UI/UX design.<br><br>🌍 From Agadir, Morocco<br>🖥️ See my portfolio at Coming Soon<br>✉️ You can contact me at abderahimbensaid111@gmail.com
 
 
